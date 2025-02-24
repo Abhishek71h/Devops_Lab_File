@@ -69,3 +69,8 @@ CREATE NEW FILE AND ADD TWO COMMITS
 git add.
 git commit -m "feature commit 1"
 ```
+
+```bash
+git add.
+git commit -m "feature commit 2"
+```
