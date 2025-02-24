@@ -66,12 +66,12 @@ git log
 
 CREATE NEW FILE AND ADD TWO COMMITS
 ```bash
-git add.
+git add .
 git commit -m "feature commit 1"
 ```
 
 ```bash
-git add.
+git add .
 git commit -m "feature commit 2"
 ```
 
