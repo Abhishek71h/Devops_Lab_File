@@ -74,3 +74,13 @@ git commit -m "feature commit 1"
 git add.
 git commit -m "feature commit 2"
 ```
+
+![allcommit](./f7.png)
+
+```bash
+git checkout main
+git log
+```
+
+
+![allcommit](./f8.png)
