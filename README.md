@@ -36,3 +36,9 @@ Create a file and do 3 commits in it
 git add .
 git commit -m "version1"
 ```
+
+2nd change
+```bash
+git add .
+git commit -m "version1"
+```
