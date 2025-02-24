@@ -48,3 +48,24 @@ git commit -m "version1"
 git add .
 git commit -m "version3"
 ```
+
+View all commits by using git log
+
+```bash
+git log
+```
+
+![allcommit](./f5.png)
+
+```bash
+git branch featur1
+git log
+```
+
+![allcommit](./f6.png)
+
+CREATE NEW FILE AND ADD TWO COMMITS
+```bash
+git add.
+git commit -m "feature commit 1"
+```
