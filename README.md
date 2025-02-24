@@ -42,3 +42,9 @@ git commit -m "version1"
 git add .
 git commit -m "version1"
 ```
+
+3rd change
+```bash
+git add .
+git commit -m "version3"
+```
